@@ -1,0 +1,1 @@
+This repository contains different algorithms created by me. The purpose of it is learning algorithms.
