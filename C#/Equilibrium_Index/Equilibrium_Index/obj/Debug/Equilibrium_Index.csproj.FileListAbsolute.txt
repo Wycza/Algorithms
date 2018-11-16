@@ -1,6 +1,0 @@
-D:\VisualStudio Projects\Algorithms\C#\Equilibrium_Index\Equilibrium_Index\obj\Debug\Equilibrium_Index.csprojResolveAssemblyReference.cache
-D:\VisualStudio Projects\Algorithms\C#\Equilibrium_Index\Equilibrium_Index\bin\Debug\Equilibrium_Index.exe.config
-D:\VisualStudio Projects\Algorithms\C#\Equilibrium_Index\Equilibrium_Index\bin\Debug\Equilibrium_Index.exe
-D:\VisualStudio Projects\Algorithms\C#\Equilibrium_Index\Equilibrium_Index\bin\Debug\Equilibrium_Index.pdb
-D:\VisualStudio Projects\Algorithms\C#\Equilibrium_Index\Equilibrium_Index\obj\Debug\Equilibrium_Index.exe
-D:\VisualStudio Projects\Algorithms\C#\Equilibrium_Index\Equilibrium_Index\obj\Debug\Equilibrium_Index.pdb
