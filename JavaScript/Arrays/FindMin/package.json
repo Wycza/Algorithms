@@ -1,0 +1,15 @@
+{
+  "name": "findmin",
+  "version": "1.0.0",
+  "description": "This is the algorithm to find minimum element in an array.",
+  "main": "src/findmin.js",
+  "scripts": {
+    "test": "jasmine",
+    "start": "node src/findmin.js"
+  },
+  "author": "Mateusz Wyczawski",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^3.3.0"
+  }
+}
