@@ -1,0 +1,15 @@
+{
+  "name": "findmax",
+  "version": "1.0.0",
+  "description": "This is the algorithm to find largest element in an array.",
+  "main": "src/findmax.js",
+  "scripts": {
+    "test": "jasmine",
+    "start": "node src/findmax.js"
+  },
+  "author": "Mateusz Wyczawski",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^3.3.0"
+  }
+}
